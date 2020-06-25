@@ -36,5 +36,6 @@ APPLICATION:
 • Two Successful Applications
 - Zipcode Recognition
 - Text to voice translation (NeTtalk)
+
 contribution Guidelines
-this document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
+This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
