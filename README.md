@@ -54,6 +54,7 @@ ANN's have the abiity to learn and model non linear and complex relatiionshis.
 it does not impose any restriction on the input varaibles
 
 About The project
+
 Aim:
 The main aim of this proect is to help deploy a Python module that can be downloaded by uers via pip to create neural networks. 
 
@@ -73,4 +74,5 @@ Once we have our weight values and input features, we are going to send it to th
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
 
 contribution Guidelines:
+
 This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
