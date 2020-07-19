@@ -60,18 +60,24 @@ Aim:
 The main aim of this proect is to help deploy a Python module that can be downloaded by uers via pip to create neural networks. 
 
 How Do We Achieve this:
+
  Import Required libraries:
+ 
 First, we are going to import Python libraries. We are using NumPy for the calculations:
 Next, we are going to take input values for which we want to train our neural network. Here we can see that we have taken two input features. In actual data sets, the value of the input features is mostly high.
 For the input features, we want to have a specific output for specific input features. It is called the target output. We are going to train the model that gives us the target output for our input features.
+
 Assign the Weights :
 Next, we are going to assign random weights to the input features. Note that our model is going to modify these weight values to be optimum. At this point, we are taking these values randomly. Here we have two input features, so we are going to take two weight values.
 Adding Bias Values and Assigning a Learning Rate :
+
 Now here we are going to add the bias value. The value of bias = 1. However, the weight assigned to it is random at first, and our model will optimize it for our target output.
 The other parameter is called the learning rate(LR). We are going to use the learning rate in a gradient descent algorithm to update the weight values. Generally, we keep the learning rate as low as possible so that we can achieve a minimum error rate.
 Applying a Sigmoid Function:
+
 Once we have our weight values and input features, we are going to send it to the main function that predicts the output. Now notice that our input features and weight values can be anything, but here we want to classify data, so we need the output between 0 and 1. For such, we are going to a sigmoid function.
  Derivative of sigmoid function:
+ 
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
 
 contribution Guidelines:
