@@ -50,6 +50,7 @@ We can develop a neural network that translates one language into another langua
 i. Image processing:
 
 Advantages:
+
 ANN's have the abiity to learn and model non linear and complex relatiionshis.
 it does not impose any restriction on the input varaibles
 
