@@ -69,9 +69,9 @@ The result from Step 1 can be a set of any values. However, in our output we hav
 Back Propagation
 We start by letting the network make random predictions about the output. We then compare the predicted output of the neural network with the actual output. Next, we fine-tune our weights and the bias in such a manner that our predicted output becomes closer to the actual output, which is basically known as "training the neural network".
 Calculating the cost
-(Minimizing the cost
+Minimizing the cost
 
-implementation by python:
+Implementation by python:
 
  Import Required libraries:
  
