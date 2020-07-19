@@ -7,7 +7,8 @@ Structure
 Processing Method
 Learning Ability
 of a biological brain
-- Characteristics of Artificial Neural Networks
+Characteristics of Artificial Neural Networks:
+
 A large number of very simple processing neuron-lik e processing
 elements
 A large number of weighted connections between the elements
@@ -20,7 +21,7 @@ Output Layer (The data after processing is made available at the output layer)
 Furthermore the learning happens in two steps:
 Forward-Propagation
 Back-Propagation
-Components of artificialneural networks
+Components of artificialneural networks:
 A neural network is characterized by
 1) Its pattern of connections between the neurons (called its
 architecture).
@@ -50,8 +51,10 @@ ANN's have the abiity to learn and model non linear and complex relatiionshis.
 it does not impose any restriction on the input varaibles
 About The project
 Aim:
+
 The main aim of this proect is to help deploy a Python module that can be downloaded by uers via pip to create neural networks. 
 How Do We Achieve this:
+
  Import Required libraries:
 First, we are going to import Python libraries. We are using NumPy for the calculations:
 Next, we are going to take input values for which we want to train our neural network. Here we can see that we have taken two input features. In actual data sets, the value of the input features is mostly high.
@@ -66,4 +69,5 @@ Once we have our weight values and input features, we are going to send it to th
  Derivative of sigmoid function:
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
 contribution Guidelines:
+
 This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
