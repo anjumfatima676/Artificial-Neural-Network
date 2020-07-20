@@ -97,6 +97,6 @@ This project helps serve this very purpose .it helps users to download a Python 
 
 https://user-images.githubusercontent.com/65071309/84528081-a9479c00-acfc-11ea-88b9-bcd515b30849.png
 
-contribution Guidelines:
+Contribution Guidelines:
 
 This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
