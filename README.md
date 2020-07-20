@@ -95,6 +95,7 @@ when it comes to AI the longer we train a model ,the better we can yeild accurat
 
 this oroject helps serve this very purpose .it helps users to download a Python module(using pip ),to create neural networks.it makes the user's job easy ,while providing  great precision and accuracy.
 
+
 contribution Guidelines:
 
 This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
