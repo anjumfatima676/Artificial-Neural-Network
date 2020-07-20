@@ -91,7 +91,9 @@ Once we have our weight values and input features, we are going to send it to th
  Derivative of sigmoid function:
  
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
-https://github.com/DeepShiz/Artificial-Neural-Network/issues/8#issuecomment-644016117
+when it comes to AI the longer we train a model ,the better we can yeild accurate result.
+
+this oroject helps serve this very purpose .it helps users to download a Python module(using pip ),to create neural networks.it makes the user's job easy ,while providing  great precision and accuracy.
 
 contribution Guidelines:
 
