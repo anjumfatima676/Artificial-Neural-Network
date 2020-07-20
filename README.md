@@ -91,6 +91,7 @@ Once we have our weight values and input features, we are going to send it to th
  Derivative of sigmoid function:
  
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
+https://github.com/DeepShiz/Artificial-Neural-Network/issues/8#issuecomment-644016117
 
 contribution Guidelines:
 
