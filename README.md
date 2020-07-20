@@ -52,7 +52,7 @@ i. Image processing:
 Advantages:
 
 ANN's have the abiity to learn and model non linear and complex relatiionshis.
-it does not impose any restriction on the input varaibles
+It does not impose any restriction on the input varaibles
 
 About The project
 
