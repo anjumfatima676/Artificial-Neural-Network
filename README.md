@@ -90,12 +90,13 @@ Applying a Sigmoid Function:
 Once we have our weight values and input features, we are going to send it to the main function that predicts the output. Now notice that our input features and weight values can be anything, but here we want to classify data, so we need the output between 0 and 1. For such, we are going to a sigmoid function.
  Derivative of sigmoid function:
  
+ https://user-images.githubusercontent.com/65071309/84528081-a9479c00-acfc-11ea-88b9-bcd515b30849.png
+
+ 
 In gradient descent algorithm we are going to need the derivative of the sigmoid function.
 when it comes to AI the longer we train a model ,the better we can yeild accurate result.
 
 This project helps serve this very purpose .it helps users to download a Python module(using pip ),to create neural networks.it makes the user's job easy ,while providing  great precision and accuracy.
-
-https://user-images.githubusercontent.com/65071309/84528081-a9479c00-acfc-11ea-88b9-bcd515b30849.png
 
 Contribution Guidelines:
 
