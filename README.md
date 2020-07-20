@@ -1,5 +1,6 @@
 # Artificial-Neural-Network
 What is ANN
+
 Neural networks form the base of deep learning, which is a subfield of machine learning, where the structure of the human brain inspires the algorithms. Neural networks take input data, train themselves to recognize patterns found in the data, and then predict the output for a new set of similar data. Therefore, a neural network can be thought of as the functional unit of deep learning, which mimics the behavior of the human brain to solve complex data-driven problems.
  It is like an artificial human nervous system for receiving, processing, and transmitting information in terms of Computer Science.
 It isacomputational system inspired by the
@@ -9,12 +10,14 @@ Learning Ability
 of a biological brain
 
 Characteristics of Artificial Neural Networks:
+
 A large number of very simple processing neuron-lik e processing
 elements
 A large number of weighted connections between the elements
 Distributed representation of knowledge over the connections
 Knowledge is acquired by network through a learning process
 Basically, there are 3 different layers in a neural network :-
+
 Input Layer (All the inputs are fed in the model through this layer)
 Hidden Layers (There can be more than one hidden layers which are used for processing the inputs received from the input layers)
 Output Layer (The data after processing is made available at the output layer)
@@ -24,6 +27,7 @@ Back-Propagation
 
 Components of artificialneural networks:
 A neural network is characterized by
+
 1) Its pattern of connections between the neurons (called its
 architecture).
 2) Its method of determining the weights on the connections (called its
