@@ -100,4 +100,4 @@ This project helps serve this very purpose .it helps users to download a Python 
 
 Contribution Guidelines:
 
-This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc
+This document provides a set of best practices for open source contributions bug reportscode submissions/pull requests,etc.
